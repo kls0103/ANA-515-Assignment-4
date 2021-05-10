@@ -1,4 +1,5 @@
 # ANA-515-Assignment-4
-Assignment 4 for ANA 515 McDaniel College
 
-The R MarkDown HTML and R script are for Assignment 4 in ANA 515 at McDaniel College. 
+Uber Pick Up Data ANA 515 Assignment 3
+
+This HTML R Markdown File and R Script was created for McDaniel's ANA 515 Assignment 4. It uses data obtained by FiveThirty Eight contanining information from 4.5 million Uber Pick Ups from April 2014 to September 2014. The data is contained in large CSV files that were unable to upload to this repository. The only file small enough to upload was the April 2014 data.
